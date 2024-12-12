@@ -9,20 +9,31 @@ namespace DataTypes {
         static void Main(string[] args) {
             Console.WriteLine("Data Types");
 
-            int age = 23;
+            string text_age = "23";    
+            int age = Convert.ToInt32(text_age);
             Console.WriteLine("(int) age: " + age);
 
-            long bigNum = 556967123000L;
+            string text_bigNm = "556967123000";
+            long bigNum = Convert.ToInt64(text_bigNm);
             Console.WriteLine("(long) bigNum: " + bigNum);
 
-            double decimalNum = 3.147;
+            string text_decimalNum = "3.147";
+            double decimalNum = Convert.ToDouble(text_decimalNum);
             Console.WriteLine("(double) decimalNum: " + decimalNum);
 
-            double floatNum = 5.00000000213F;
+            string text_floatNum = "5.00000000213";
+            double floatNum = Convert.ToSingle(text_floatNum);
             Console.WriteLine("(float) floatNum: " + floatNum);
 
-            decimal money = 15.99M;
+            string text_money = "15.99";
+            decimal money = Convert.ToDecimal(text_money);
             Console.WriteLine("(decimal) money: " + money);
+
+            string name = "Sami Munir";
+            Console.WriteLine("(string) name: " + name);
+
+            char letter = '$';
+            Console.WriteLine("(char) letter: " + letter);
 
             Console.ReadLine();
         }
