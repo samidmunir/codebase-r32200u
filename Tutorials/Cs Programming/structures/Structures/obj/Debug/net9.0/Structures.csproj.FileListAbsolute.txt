@@ -1,0 +1,15 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\bin\Debug\net9.0\Structures.exe
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\bin\Debug\net9.0\Structures.deps.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\bin\Debug\net9.0\Structures.runtimeconfig.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\bin\Debug\net9.0\Structures.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\bin\Debug\net9.0\Structures.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.AssemblyInfoInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.AssemblyInfo.cs
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.sourcelink.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\refint\Structures.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\Structures.genruntimeconfig.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\structures\Structures\obj\Debug\net9.0\ref\Structures.dll

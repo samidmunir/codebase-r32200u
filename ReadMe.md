@@ -5,4 +5,6 @@ Sami Munir | sami.munir2001@gmail.com | github.com/samidmunir
 * hello-world
 * first-project
 * data-types
+* standard-input
+* structures
 ## Projects

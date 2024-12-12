@@ -1,0 +1,15 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\bin\Debug\net9.0\CourseGradebook.exe
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\bin\Debug\net9.0\CourseGradebook.deps.json
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\bin\Debug\net9.0\CourseGradebook.runtimeconfig.json
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\bin\Debug\net9.0\CourseGradebook.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\bin\Debug\net9.0\CourseGradebook.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.AssemblyInfoInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.AssemblyInfo.cs
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.csproj.CoreCompileInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.sourcelink.json
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\refint\CourseGradebook.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\CourseGradebook.genruntimeconfig.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\course-gradebook\CourseGradebook\obj\Debug\net9.0\ref\CourseGradebook.dll
