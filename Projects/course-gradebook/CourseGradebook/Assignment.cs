@@ -77,7 +77,7 @@ namespace CourseGradebook {
         }
 
         public override string ToString() {
-            string output = string.Format("<{0}>: {1}\n{2}/{3}", this.type, this.title, this.scored_points, this.max_points);
+            string output = string.Format("\nASSIGNMENT -->\n<{0}>: {1}\nScored/Max: {2}/{3}", this.type, this.title, this.scored_points, this.max_points);
 
             return output; 
         }
