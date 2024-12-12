@@ -1,0 +1,15 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\bin\Debug\net9.0\StandardInput.exe
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\bin\Debug\net9.0\StandardInput.deps.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\bin\Debug\net9.0\StandardInput.runtimeconfig.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\bin\Debug\net9.0\StandardInput.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\bin\Debug\net9.0\StandardInput.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.AssemblyInfoInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.AssemblyInfo.cs
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.csproj.CoreCompileInputs.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.sourcelink.json
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\refint\StandardInput.dll
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.pdb
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\StandardInput.genruntimeconfig.cache
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Cs Programming\standard-input\StandardInput\obj\Debug\net9.0\ref\StandardInput.dll

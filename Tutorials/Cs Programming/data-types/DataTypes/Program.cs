@@ -35,6 +35,9 @@ namespace DataTypes {
             char letter = '$';
             Console.WriteLine("(char) letter: " + letter);
 
+            bool bool_value = true;
+            Console.WriteLine("(bool) bool_value: " + bool_value);
+
             Console.ReadLine();
         }
     }
