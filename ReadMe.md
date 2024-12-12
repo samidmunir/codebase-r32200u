@@ -3,4 +3,6 @@ Sami Munir | sami.munir2001@gmail.com | github.com/samidmunir
 ## Tutorials
 ### C# Programming
 * hello-world
+* first-project
+* data-types
 ## Projects
