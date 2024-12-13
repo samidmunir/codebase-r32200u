@@ -15,6 +15,13 @@ def fetch_weather_data(city: str) -> dict:
         raise Exception(data['error']['info'])
     return {
         'location': data['location']['name'],
+        'country': data['location']['country'],
+        'region': data['location']['region'],
+        'latitude': data['location']['lat'],
+        'longitude': data['location']['lon'],
+        'timezone_id': data['location']['timezone_id'],
+        'localtime': data['location']['localtime'],
+        'utc_offset': data['location']['utc_offset'],
         'temperature': data['current']['temperature'],
         'description': data['current']['weather_descriptions'][0]
     }

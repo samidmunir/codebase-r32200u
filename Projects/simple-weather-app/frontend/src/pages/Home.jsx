@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useState} from 'react'
 
 const Home = () => {
     const [city, setCity] = useState('');
@@ -12,11 +12,10 @@ const Home = () => {
         } catch (error) {
             console.error('Error fetching weather data:', error);
         }
-    };
+    }
 
     return (
         <div>
-            <h1>Simple Weather App</h1>
             <input
                 type='text'
                 value={city}
@@ -32,9 +31,9 @@ const Home = () => {
                         <p>Description: {weather.description}</p>
                     </div>
                 )
-            };
+            }
         </div>
-    );
-};
+    )
+}
 
 export default Home;
