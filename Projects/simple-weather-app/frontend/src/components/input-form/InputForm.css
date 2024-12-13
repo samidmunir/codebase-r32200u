@@ -1,0 +1,47 @@
+.InputForm {
+    padding: 1rem;
+    background-color: #333333;
+    text-align: center;
+}
+
+.weather-input {
+    outline: none;
+    margin: 0;
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #ffffff;
+    border: 1px solid #262626;
+    background-color: #262626;
+    opacity: 0.75;
+    transition: all 0.25s linear;
+}
+
+.weather-input::placeholder {
+    color: #0066ff;
+}
+
+.weather-input:hover {
+    opacity: 1.0;
+}
+
+
+.weather-input-button {
+    outline: none;
+    margin: 0;
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: #262626;
+    color: #0066ff;
+    font-weight: bold;
+    border-top: 1px solid #262626;
+    border-right: 1px solid #262626;
+    border-bottom: 1px solid #262626;
+    border-left: 1px solid #0066ff;
+    opacity: 0.75;
+    transition: all 0.25s linear;
+}
+
+.weather-input-button:hover {
+    border: 1px solid #0066ff;
+    opacity: 1.0;
+}
