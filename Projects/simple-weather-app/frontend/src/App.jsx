@@ -1,15 +1,24 @@
-import Header from './components/header/Header';
-import Main from './components/main/Main';
-import Home from './pages/Home'
-import './App.css'
+import {useState, useEffect} from 'react'
+import Header from './components/header/Header'
+import Main from './components/main/Main'
 
-function App() {
+const App = () => {
+  const [currentTime, setCurrentTime] = useState(new Date().toLocaleTimeString());
+  
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentTime(new Date().toLocaleTimeString());
+    }, 1000)
+
+    return () => clearInterval(timer);
+  }, [])
+  
   return (
     <>
-      <Header />
+      <Header currentTime={currentTime} />
       <Main />
     </>
   )
-};
+}
 
-export default App;
+export default App

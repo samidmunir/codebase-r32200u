@@ -1,0 +1,25 @@
+.WeatherCard {
+    border: 1px solid red;
+    background-color: #333333;
+    padding: 1rem;
+    width: 65vw;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.weather-location {
+    border: 1px solid yellow;
+}
+
+.weather-main {
+    border: 1px solid blue;
+}
+
+.weather-main-left {
+    border: 1px solid purple;
+}
+
+.weather-main-right {
+    border: 1px solid purple;
+}

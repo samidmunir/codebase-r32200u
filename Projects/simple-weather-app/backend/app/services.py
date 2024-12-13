@@ -22,6 +22,12 @@ def fetch_weather_data(city: str) -> dict:
         'timezone_id': data['location']['timezone_id'],
         'localtime': data['location']['localtime'],
         'utc_offset': data['location']['utc_offset'],
+        'observation_time': data['current']['observation_time'],
         'temperature': data['current']['temperature'],
-        'description': data['current']['weather_descriptions'][0]
+        'feelslike': data['current']['feelslike'],
+        'description': data['current']['weather_descriptions'][0],
+        'wind_speed': data['current']['wind_speed'],
+        'wind_degree': data['current']['wind_degree'],
+        'wind_dir': data['current']['wind_dir'],
+        'pressure': data['current']['pressure'],
     }
