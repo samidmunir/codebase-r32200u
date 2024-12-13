@@ -11,3 +11,4 @@ Sami Munir | sami.munir2001@gmail.com | github.com/samidmunir
 * first-project (Jokes Webapp)
 ## Projects
 * course-gradebook: __C#__
+* simple-weather-app: __ReactJS__
