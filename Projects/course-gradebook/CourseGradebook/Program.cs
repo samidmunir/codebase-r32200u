@@ -9,7 +9,7 @@
             Course course_i = new Course("CS105");
             Console.WriteLine(course_i);
 
-            Student student_i = new Student("Sami", "Munir", "sm2246@rutgers.edu", 23, "10-11-2001");
+            Student student_i = new Student("Sami", "Munir", "sm2246@email.edu", 23, "10-11-2001");
             Console.WriteLine(student_i);
         }
     }

@@ -7,5 +7,7 @@ Sami Munir | sami.munir2001@gmail.com | github.com/samidmunir
 * data-types
 * standard-input
 * structures
+### ASP.NET Core
+* first-project (Jokes Webapp)
 ## Projects
 * course-gradebook: __C#__
