@@ -1,0 +1,21 @@
+.WeatherIcon {
+    /* border: 1px solid red; */
+    text-align: center;
+    width: 50px;
+}
+
+.WeatherIcon-value {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.WeatherIcon-label {
+    font-size: 0.5rem;
+    font-weight: bold;
+    margin: 1rem auto;
+}
+
+.WeatherIcon-icon {
+    font-size: 2.5rem;
+    color: #0066ff;
+}
