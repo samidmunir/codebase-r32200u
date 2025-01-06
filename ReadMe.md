@@ -7,6 +7,8 @@ Sami Munir | sami.munir2001@gmail.com | github.com/samidmunir
 * data-types
 * standard-input
 * structures
+### Python Programming
+* fastapi-react-tutorial
 ## Projects
 * course-gradebook: __C#__
 * simple-weather-app: __Python-FastAPI, ReactJS__
